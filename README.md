@@ -68,28 +68,32 @@
 
 ---
 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">🛒 "Grocery Expense Tracker" (https://github.com/Pnagasiromani/Grocery-Expense-Tracker)
+<td width="50%">
 
-Java • HTML • CSS • JavaScript • Firebase
+<h3>🛒 <a href="https://github.com/Pnagasiromani/Grocery-Expense-Tracker">Grocery Expense Tracker</a></h3>
+
+<b>Java • HTML • CSS • JavaScript • MySQL</b>
 
 A practical application for tracking grocery purchases and managing expenses.
-
-
 
 - Grocery expenses can be difficult to track manually.
 - Build a simple system to record and manage purchases.
 - Developed expense tracking features with a user-friendly interface and database integration.
 - Made grocery expense management more organized and easier to monitor.
 
-</td><td width="50%">🤖 "AI-Powered Research Analysis" (https://github.com/Pnagasiromani/AI-Powered-Research-Analysis)
+</td>
 
-Python • FastAPIs • PostgreSQL 
+<td width="50%">
 
-An AI-powered application designed to analyze research information and generate useful insights.
+<h3>🤖 <a href="https://github.com/Pnagasiromani/AI-Powered-Research-Analysis">AI-Powered Research Analysis</a></h3>
 
+<b>Python • AI/ML • Data Analysis</b>
+
+An AI-powered application for analyzing research information and generating useful insights.
 
 
 - Research information can be large and time-consuming to analyze manually.
@@ -98,13 +102,16 @@ An AI-powered application designed to analyze research information and generate 
 - Helped make research analysis faster and easier to understand.
 
 </td>
-</tr><tr>
-<td width="50%">🎓 "Online Course Registration" (https://github.com/Pnagasiromani/Online-Course-Registration)
+</tr>
 
-React • Spring Boot • MySQL
+<tr>
+<td width="50%">
+
+<h3>🎓 <a href="https://github.com/Pnagasiromani/Online-Course-Registration">Online Course Registration</a></h3>
+
+<b>React • Spring Boot • MySQL</b>
 
 A full-stack application for managing student course registration.
-
 
 
 - Students need a convenient way to browse and register for courses.
@@ -112,12 +119,15 @@ A full-stack application for managing student course registration.
 - Developed React frontend, Spring Boot REST APIs and MySQL database integration.
 - Enabled students to browse courses, enroll, and manage registrations efficiently.
 
-</td><td width="50%">🦠 "COVID-19 Analysis" (https://github.com/Pnagasiromani/COVID-19-Analysis)
+</td>
 
-Python • Pandas • Matplotlib
+<td width="50%">
+
+<h3>🦠 <a href="https://github.com/Pnagasiromani/COVID-19-Analysis">COVID-19 Analysis</a></h3>
+
+<b>Python • Pandas • Matplotlib</b>
 
 A data analysis project for exploring COVID-19 datasets and identifying trends.
-
 
 
 - COVID-19 datasets contain large amounts of information.
@@ -126,13 +136,16 @@ A data analysis project for exploring COVID-19 datasets and identifying trends.
 - Presented important trends and insights through clear visualizations.
 
 </td>
-</tr><tr>
-<td width="50%">📄 "Resume Builder" (https://github.com/Pnagasiromani/Resume-Builder)
+</tr>
 
-HTML • CSS • JavaScript
+<tr>
+<td width="50%">
+
+<h3>📄 <a href="https://github.com/Pnagasiromani/Resume-Builder">Resume Builder</a></h3>
+
+<b>HTML • CSS • JavaScript</b>
 
 A browser-based application for creating and customizing resumes.
-
 
 
 - Creating and formatting resumes manually can be time-consuming.
@@ -140,9 +153,18 @@ A browser-based application for creating and customizing resumes.
 - Developed a responsive interface using HTML, CSS and JavaScript.
 - Allowed users to create and customize resumes directly in the browser.
 
-</td><td width="50%"></td>
+</td>
+
+<td width="50%">
+
+</td>
 </tr>
 </table>
+
+
+
+
+
 
 
 
