@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 🎓 I'm a **final-year B.Tech Computer Science Engineering student at Sreenidhi Institute of Science and Technology (SNIST)**.
 
