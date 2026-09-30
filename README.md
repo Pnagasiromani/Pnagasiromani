@@ -67,70 +67,84 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%">🛒 "Grocery Expense Tracker" (https://github.com/Pnagasiromani/Grocery-Expense-Tracker)
 
-### 🏨 Hotel Booking Analysis
+Java • HTML • CSS • JavaScript • Firebase
 
-**Power BI • Excel • DAX**
+A practical application for tracking grocery purchases and managing expenses.
 
-An interactive dashboard for analyzing hotel booking data.
 
-**What I worked on:**
-- 📌 KPI cards
-- 📊 Booking trends
-- ❌ Cancellation analysis
-- 👥 Customer behavior
-- 💰 Revenue insights
-- 🎛️ Interactive slicers
 
-</td>
+- Grocery expenses can be difficult to track manually.
+- Build a simple system to record and manage purchases.
+- Developed expense tracking features with a user-friendly interface and database integration.
+- Made grocery expense management more organized and easier to monitor.
 
-<td width="50%">
+</td><td width="50%">🤖 "AI-Powered Research Analysis" (https://github.com/Pnagasiromani/AI-Powered-Research-Analysis)
 
-### 🎓 Online Course Registration
+Python • FastAPIs • PostgreSQL 
 
-**React • Spring Boot • MySQL**
+An AI-powered application designed to analyze research information and generate useful insights.
 
-A full-stack course registration application.
 
-**Features:**
-- 🔐 Student registration
-- 📚 Course browsing
-- 🎯 Course enrollment
-- 🚫 Duplicate prevention
-- 💺 Seat availability
-- 🔗 REST APIs
+
+- Research information can be large and time-consuming to analyze manually.
+- Develop a solution to simplify research analysis.
+- Used Python and AI-based techniques to process and analyze research information.
+- Helped make research analysis faster and easier to understand.
 
 </td>
-</tr>
+</tr><tr>
+<td width="50%">🎓 "Online Course Registration" (https://github.com/Pnagasiromani/Online-Course-Registration)
 
-<tr>
-<td width="50%">
+React • Spring Boot • MySQL
 
-### 🦠 COVID-19 Analysis
+A full-stack application for managing student course registration.
 
-**Python • Pandas • Visualization**
 
-A data analysis project focused on exploring COVID-19 datasets and presenting trends through visualizations.
+
+- Students need a convenient way to browse and register for courses.
+- Build a centralized course registration system.
+- Developed React frontend, Spring Boot REST APIs and MySQL database integration.
+- Enabled students to browse courses, enroll, and manage registrations efficiently.
+
+</td><td width="50%">🦠 "COVID-19 Analysis" (https://github.com/Pnagasiromani/COVID-19-Analysis)
+
+Python • Pandas • Matplotlib
+
+A data analysis project for exploring COVID-19 datasets and identifying trends.
+
+
+
+- COVID-19 datasets contain large amounts of information.
+- Analyze the data and identify meaningful trends.
+- Used Python, Pandas and visualization techniques for data cleaning and analysis.
+- Presented important trends and insights through clear visualizations.
 
 </td>
+</tr><tr>
+<td width="50%">📄 "Resume Builder" (https://github.com/Pnagasiromani/Resume-Builder)
 
-<td width="50%">
-
-### 📄 Resume Builder
-
-**HTML • CSS • JavaScript**
+HTML • CSS • JavaScript
 
 A browser-based application for creating and customizing resumes.
 
-</td>
+
+
+- Creating and formatting resumes manually can be time-consuming.
+- Create an easy-to-use online resume builder.
+- Developed a responsive interface using HTML, CSS and JavaScript.
+- Allowed users to create and customize resumes directly in the browser.
+
+</td><td width="50%"></td>
 </tr>
 </table>
+
+
 
 ---
 
