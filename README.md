@@ -123,7 +123,7 @@ A full-stack application for managing student course registration.
 
 <td width="50%">
 
-<h3>🦠 <a href="https://github.com/Pnagasiromani/COVID-19-Analysis">COVID-19 Analysis</a></h3>
+<h3>🦠 <a href="https://github.com/Pnagasiromani/covid-analysis.git">COVID-19 Analysis</a></h3>
 
 <b>Python • Pandas • Matplotlib</b>
 
