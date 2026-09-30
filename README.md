@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=Pnagasiromani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=60&descSize=18" />
 
-### Hello, I'm Pnagasiromani
+### Hello, I'm P Naga siro mani
 
 **Final-Year Computer Science Engineering Student @ SNIST**  
 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**
