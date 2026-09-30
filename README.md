@@ -74,7 +74,7 @@
 <tr>
 <td width="50%">
 
-<h3>🛒 <a href="https://github.com/Pnagasiromani/Grocery-Expense-Tracker">Grocery Expense Tracker</a></h3>
+<h3>🛒 <a href="https://github.com/Pnagasiromani/Grocery-Expiry-Trackerr.git">Grocery Expense Tracker</a></h3>
 
 <b>Java • HTML • CSS • JavaScript • MySQL</b>
 
@@ -89,7 +89,7 @@ A practical application for tracking grocery purchases and managing expenses.
 
 <td width="50%">
 
-<h3>🤖 <a href="https://github.com/Pnagasiromani/AI-Powered-Research-Analysis">AI-Powered Research Analysis</a></h3>
+<h3>🤖 <a href="https://github.com/Pnagasiromani/AI---Powered-Research-Analyzer.git">AI-Powered Research Analysis</a></h3>
 
 <b>Python • AI/ML • Data Analysis</b>
 
@@ -107,7 +107,7 @@ An AI-powered application for analyzing research information and generating usef
 <tr>
 <td width="50%">
 
-<h3>🎓 <a href="https://github.com/Pnagasiromani/Online-Course-Registration">Online Course Registration</a></h3>
+<h3>🎓 <a href="https://github.com/Pnagasiromani/OnlineCourseRegistrationPortal.git">Online Course Registration</a></h3>
 
 <b>React • Spring Boot • MySQL</b>
 
